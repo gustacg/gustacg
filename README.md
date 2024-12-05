@@ -1,6 +1,5 @@
-<!--![image alt](https://github.com/gustacg/gustacg/blob/b36c7d28e41e3451a71f96722612fa092b5f59af/2.jpg)-->
+<!--![Minha Logo](https://github.com/gustacg/gustacg/raw/main/CG.png)-->
 ## Gustavo Calixto ✪
-
 
 [![Site](https://img.shields.io/badge/-WEBSITE-ffffff?style=for-the-badge)](https://gustavocg.framer.website/)
 [![Behance](https://img.shields.io/badge/-Behance-20232A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gustacg)
