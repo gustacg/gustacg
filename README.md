@@ -1,5 +1,4 @@
-
-<img src="CG.png" alt="Minha Logo" width="200" />
+![image alt](https://github.com/gustacg/gustacg/blob/39d78f6e700a2b8a315e4d1e8232f5d023918e44/CG.png)
 
 ## Gustavo Calixto ✪
 
