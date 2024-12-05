@@ -1,5 +1,5 @@
 
-<img src="CG Logo.svg" alt="Minha Logo" width="200" />
+<img src="CG.png" alt="Minha Logo" width="200" />
 
 ## Gustavo Calixto ✪
 
