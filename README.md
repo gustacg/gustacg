@@ -1,6 +1,8 @@
-![image alt](https://github.com/gustacg/gustacg/blob/39d78f6e700a2b8a315e4d1e8232f5d023918e44/CG.png)
+
 
 ## Gustavo Calixto ✪
+
+![image alt](https://github.com/gustacg/gustacg/blob/39d78f6e700a2b8a315e4d1e8232f5d023918e44/CG.png)
 
 [![Site](https://img.shields.io/badge/-WEBSITE-ffffff?style=for-the-badge)](https://gustavocg.framer.website/)
 [![Behance](https://img.shields.io/badge/-Behance-20232A?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gustacg)
