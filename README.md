@@ -1,5 +1,4 @@
-![image alt](https://github.com/gustacg/gustacg/blob/14222178412086823467ef00c818bfddf284aa47/1.png)
-
+<!--![image alt](https://github.com/gustacg/gustacg/blob/b36c7d28e41e3451a71f96722612fa092b5f59af/2.jpg)-->
 ## Gustavo Calixto ✪
 
 
@@ -8,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustacg/)
 [![Insta](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusta._cg/)
 
-<!--![Calixto GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustacg&show_icons=true&theme=dark#gh-dark-mode-only)-->
+![Calixto GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustacg&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ### Tecnologias
 <div>
