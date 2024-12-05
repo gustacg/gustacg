@@ -5,7 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustacg/)
 [![Insta](https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gusta._cg/)
 
-![Calixto GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gustacg&show_icons=true&theme=dark#gh-dark-mode-only)
 
 ### Tecnologias
 <div>
