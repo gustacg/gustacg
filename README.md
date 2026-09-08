@@ -60,13 +60,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,deno,python,fastapi,postgres,supabase,redis,rabbitmq&theme=dark&perline=12">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,deno,python,fastapi,postgres,supabase,redis,rabbitmq&theme=light&perline=12" alt="TypeScript, React, Next.js, Tailwind, Node.js, Deno, Python, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cdeno%2Cpython%2Cfastapi%2Cpostgres%2Csupabase%2Credis%2Crabbitmq&theme=dark&perline=12">
+    <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cdeno%2Cpython%2Cfastapi%2Cpostgres%2Csupabase%2Credis%2Crabbitmq&theme=light&perline=12" alt="TypeScript, React, Next.js, Tailwind, Node.js, Deno, Python, FastAPI, PostgreSQL, Supabase, Redis, RabbitMQ">
   </picture>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,git,githubactions,sentry,figma,photoshop,illustrator,ae,wordpress&theme=dark&perline=12">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,aws,vercel,git,githubactions,sentry,figma,photoshop,illustrator,ae,wordpress&theme=light&perline=12" alt="Docker, nginx, AWS, Vercel, Git, GitHub Actions, Sentry, Figma, Photoshop, Illustrator, After Effects, WordPress">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Caws%2Cvercel%2Cgit%2Cgithubactions%2Csentry%2Cfigma%2Cphotoshop%2Cillustrator%2Cae%2Cwordpress&theme=dark&perline=12">
+    <img src="https://skillicons.dev/icons?i=docker%2Cnginx%2Caws%2Cvercel%2Cgit%2Cgithubactions%2Csentry%2Cfigma%2Cphotoshop%2Cillustrator%2Cae%2Cwordpress&theme=light&perline=12" alt="Docker, nginx, AWS, Vercel, Git, GitHub Actions, Sentry, Figma, Photoshop, Illustrator, After Effects, WordPress">
   </picture>
 </p>
 
