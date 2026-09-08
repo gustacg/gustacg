@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.gustacg.com/en#projetos">
-    <img src="assets/motions.gif" alt="Alpha Motos, Safari Broker, Avance, Riff, Prospecto, Ferry Boat SLZ and Crias" width="560">
+    <img src="assets/motions.gif" alt="Alpha Motos, Safari Broker, Avance, Riff, Prospecto, Ferry Boat SLZ and Crias" width="430">
   </a>
 </p>
 
