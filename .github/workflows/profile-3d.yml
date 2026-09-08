@@ -17,6 +17,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Só calendário e total
+        run: python3 .github/scripts/limpa-3d.py
       - name: Commit e push
         run: |
           git config user.name github-actions
